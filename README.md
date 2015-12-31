@@ -22,7 +22,7 @@ If you think of anything else you would like to add to this please feel free to 
 
 ## Motivation
 
-I created this little program, because everytime the hollidays rolled around, there was always people that I tend to wish them a happy hollidays. 
+I created this little program, because everytime the hollidays rolled around, there was always people that I tend to forget to wish them a happy hollidays. 
 Than the grudge lasts forever ;p. 
 
 ## Questions
