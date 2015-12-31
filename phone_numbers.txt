@@ -1,0 +1,6 @@
+# Enter a list of phone numbers you would like to send to. 
+# For example
+
++1708555555
++16665556666
+ # and so on. 
