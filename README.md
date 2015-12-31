@@ -8,7 +8,7 @@ Install the required dependencies
 `sudo pip install -r requirments.txt`
 
 Add the the python file as a cron job and run it daily <br/>
-`crontab -e`  <br/> `0 9 * * * /path/to/hollidays_sms.py`
+`crontab -e`  <br/> `0 9 * * * /full/path/to/hollidays_sms.py`
 
 ## Contributing
 If you think of anything else you would like to add to this please feel free to do so!
