@@ -7,6 +7,8 @@ This is a command line app that wishes your friends and family a happy Hollidays
 Install the required dependencies
 `sudo pip install -r requirments.txt`
 
+* Please note in order to run this app. You will need a twilio `SID` and `AUTH_TOKEN`.
+
 Add the the python file as a cron job and run it daily <br/>
 `crontab -e`  <br/> `0 9 * * * /full/path/to/hollidays_sms.py`
 
