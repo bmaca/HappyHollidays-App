@@ -5,7 +5,7 @@ This is a command line app that wishes your friends and family a happy Hollidays
 ## Usage
 
 Install the required dependencies
-`pip install -r requirments.txt`
+`sudo pip install -r requirments.txt`
 
 Add the the python file as a cron job and run it daily
 `crontab -e`
