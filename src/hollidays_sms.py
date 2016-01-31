@@ -23,7 +23,7 @@ TWILIO_ACCOUNT_AUTH_TOKEN = config.get("credentials","AUTH_TOKEN")
 my_number = '+xxx'
 
 # body of the message. Yall folks can change it to whatever you please. 
-body = "Happy holidays to you and your family! From{}".format(name))
+body = "Happy holidays to you and your family! From{}".format(name)
 
 # reading the contacts from a file and converting them to a list. 
 recipients = open('phone_numbers.txt').read().split('\n')
