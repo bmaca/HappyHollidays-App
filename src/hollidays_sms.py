@@ -8,7 +8,6 @@ import holidays
 from twilio.rest import TwilioRestClient
 
 today = datetime.date.today()
-name = "Bill Maca"
 
 # Reading sensitive credentials in order to communicate with twilio api
 config = ConfigParser.ConfigParser()
